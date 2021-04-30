@@ -2,9 +2,9 @@
 
 ### Contact info:
 
-Phone:    +375 (29) 861-11-34  
-Email:      viktor.originaly@gmail.com  
-Discord:  viktor-original#2711  
+Phone: +375 (29) 861-11-34  
+Email: viktor.originaly@gmail.com  
+Discord: viktor-original#2711  
 Linkedin: https://goo.gl/EPc3eN  
 
 ### Summary:  
@@ -13,10 +13,10 @@ I love to learn new technologies and look to ways to better myself in this rapid
 
 ### Skills:  
 
-Tools:                                Xcode, VisualStudioCode, IntellijIDEA, Git  
-Database Management:   Core Data, User Defaults  
-OS:                                   Windows, iOS, Mac OS  
-Webserver:                       Firebase  
+Tools: Xcode, VisualStudioCode, IntellijIDEA, Git  
+Database Management: Core Data, User Defaults  
+OS: Windows, iOS, Mac OS  
+Webserver: Firebase  
 
 ### Experience:  
 
@@ -26,7 +26,7 @@ Project description: *Helping Hand app for iOS*
 Main responsibilities:  
 1. App structure  
 2. Database  
-3. UI  
+3. UI
 Achievements:  
 - Successfully finished cource at Educational Center of HTP  
 - Protected Helping Hand app as a coursework  
